@@ -1,0 +1,7 @@
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Chapter07_Main\obj\Debug\ResolveAssemblyReference.cache
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Chapter07_Main\bin\Debug\Chapter07_Main.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Chapter07_Main\bin\Debug\Chapter07_Main.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Chapter07_Main\obj\Debug\Chapter07_Main.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Chapter07_Main\obj\Debug\Chapter07_Main.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Chapter07_Main\bin\Debug\UtilityMethods.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Chapter07_Main\bin\Debug\UtilityMethods.pdb

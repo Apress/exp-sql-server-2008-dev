@@ -1,0 +1,5 @@
+bin\Debug\TimezoneFunctions.dll
+bin\Debug\TimezoneFunctions.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TimezoneFunctions.dll
+obj\Debug\TimezoneFunctions.pdb

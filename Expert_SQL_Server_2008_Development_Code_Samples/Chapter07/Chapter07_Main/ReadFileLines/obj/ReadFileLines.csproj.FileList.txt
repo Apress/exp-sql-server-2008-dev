@@ -1,0 +1,5 @@
+bin\Debug\ReadFileLines.dll
+bin\Debug\ReadFileLines.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ReadFileLines.dll
+obj\Debug\ReadFileLines.pdb

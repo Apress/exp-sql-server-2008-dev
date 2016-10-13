@@ -1,0 +1,5 @@
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\ReadFileLines\bin\Debug\ReadFileLines.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\ReadFileLines\bin\Debug\ReadFileLines.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\ReadFileLines\obj\Debug\ResolveAssemblyReference.cache
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\ReadFileLines\obj\Debug\ReadFileLines.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\ReadFileLines\obj\Debug\ReadFileLines.pdb

@@ -1,0 +1,7 @@
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v2\obj\Debug\ResolveAssemblyReference.cache
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v2\bin\Debug\CurrencyConversion_v2.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v2\bin\Debug\CurrencyConversion_v2.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v2\bin\Debug\ThreadSafeDictionary.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v2\bin\Debug\ThreadSafeDictionary.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v2\obj\Debug\CurrencyConversion_v2.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v2\obj\Debug\CurrencyConversion_v2.pdb

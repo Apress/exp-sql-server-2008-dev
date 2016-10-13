@@ -1,0 +1,5 @@
+bin\Debug\ThreadSafeDictionary.dll
+bin\Debug\ThreadSafeDictionary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ThreadSafeDictionary.dll
+obj\Debug\ThreadSafeDictionary.pdb

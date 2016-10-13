@@ -1,0 +1,7 @@
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Serialization\bin\Debug\SerializationUtilities.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Serialization\bin\Debug\SerializationUtilities.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Serialization\obj\Debug\ResolveAssemblyReference.cache
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Serialization\bin\Debug\Serialization.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Serialization\bin\Debug\Serialization.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Serialization\obj\Debug\Serialization.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\Serialization\obj\Debug\Serialization.pdb

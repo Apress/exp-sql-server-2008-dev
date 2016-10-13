@@ -1,0 +1,10 @@
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion\obj\Debug\ResolveAssemblyReference.cache
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion\bin\Debug\CurrencyConversion_v1.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion\bin\Debug\CurrencyConversion_v1.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion\obj\Debug\CurrencyConversion_v1.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion\obj\Debug\CurrencyConversion_v1.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v1\bin\Debug\CurrencyConversion_v1.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v1\bin\Debug\CurrencyConversion_v1.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v1\obj\Debug\ResolveAssemblyReference.cache
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v1\obj\Debug\CurrencyConversion_v1.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\CurrencyConversion_v1\obj\Debug\CurrencyConversion_v1.pdb

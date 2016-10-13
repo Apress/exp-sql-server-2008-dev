@@ -1,0 +1,5 @@
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\SQLCLR_TSQLComparison\bin\Debug\SQLCLR_TSQLComparison.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\SQLCLR_TSQLComparison\bin\Debug\SQLCLR_TSQLComparison.pdb
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\SQLCLR_TSQLComparison\obj\Debug\ResolveAssemblyReference.cache
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\SQLCLR_TSQLComparison\obj\Debug\SQLCLR_TSQLComparison.dll
+D:\Expert SQL Server 2008 Development\Code\Chapter07 - SQLCLR\Chapter07_Main\SQLCLR_TSQLComparison\obj\Debug\SQLCLR_TSQLComparison.pdb
